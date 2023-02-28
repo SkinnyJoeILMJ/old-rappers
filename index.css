@@ -1,7 +1,10 @@
 #old-school-rappers {
-    padding-left: 150px; 
-    padding-right: 30px;
-    margin-left: 500px ;
-    margin-right: px;
+   padding-top: 10px; 
+   padding-bottom: 10px;
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+   border-bottom-left-radius: 10px;
+   border-bottom-right-radius: 10px;
+   text-align: center;
     background-color: blue; 
 }
